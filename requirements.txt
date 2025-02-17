@@ -1,0 +1,11 @@
+streamlit==1.39.0
+openai==0.27.0
+google-api-python-client==2.70.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.5.2
+SpeechRecognition==3.8.1
+pydub==0.25.1
+python-dateutil==2.8.2
+dateparser
+gTTS
+audio_recorder_streamlit
