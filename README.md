@@ -2,10 +2,11 @@
 
 This project is an AI-powered meeting scheduling assistant that integrates OpenAI's speech-to-text (using Whisper) with the Google Calendar API. Users can provide meeting details via text or voice commands, and the assistant will automatically schedule the event in Google Calendar.
 
-<video width="640" height="360" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Demo
+
+Check out the demo of the meeting scheduler in action:
+
+![Demo Video](demo.gif)
 
 
 ## 📢 Features
