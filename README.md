@@ -119,6 +119,7 @@ This will open the web interface in your browser.
    - Display a link to view the scheduled event.
 
 ## 📂 Project Structure
+```
 │── app.py                  # Main Streamlit application
 │── utils.py                # Utility functions (speech_to_text, text_to_speech, etc.)
 │── google_calendar.py      # Google Calendar API integration functions
@@ -127,7 +128,7 @@ This will open the web interface in your browser.
 │── credentials.json        # Google API credentials (DO NOT commit this file)
 │── token.json              # Google OAuth token (auto-generated on first run)
 │── README.md               # This file
-
+```
 
 ## 🔐 Security & Best Practices
 
